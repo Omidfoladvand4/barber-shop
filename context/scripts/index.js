@@ -5,10 +5,10 @@ const hamburgerMenu = $.querySelector(".hamburger-menu");
 const navbar = $.querySelector(".navbar");
 const sliderContainer = $.querySelector(".slider-container");
 const dataS = [
-  { id: 2, src: "./images/barbers-image-2.jpg" },
-  { id: 4, src: "./images/barbers-image-4.jpg" },
-  { id: 5, src: "./images/barbers-image-5.avif" },
-  { id: 6, src: "./images/barbers-image-6.png" },
+  { id: 2, src: "./context/images/barbers-image-2.jpg" },
+  { id: 4, src: "./context/images/barbers-image-4.jpg" },
+  { id: 5, src: "./context/images/barbers-image-5.avif" },
+  { id: 6, src: "./context/images/barbers-image-6.png" },
 ];
 menuItems.forEach((menuItem) => {
   menuItem.addEventListener("click", () => {
