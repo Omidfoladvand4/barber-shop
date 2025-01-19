@@ -1,1 +1,1 @@
-<h1  color="pink"> barber landing page </h1>
+<h1 > barber landing page </h1>
